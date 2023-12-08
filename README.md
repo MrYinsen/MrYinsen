@@ -1,6 +1,6 @@
 👋 Hi, I’m @MrYinsen
 - 👀 I’m interested in math, physics, and exploring the computational world that can connect the two
-- 🌱 I’m currently teaching myself math, physics, and computer programming (C++)
+- 🌱 I’m currently teaching myself math, physics, and computer programming (C++)  
 **Completed Math courses**:  
 > Calculus  
 > Linear Algebra  
@@ -9,8 +9,8 @@
 > Mathematical Proofs  
 **Completed Physics courses**:
 > Classical Mechanics  
-**Projects**:
-**In progress**: 
+**Projects**:  
+**In progress**:  
 > Real Analysis I  
 > Complex Analysis  
 > Electromagnetism  
