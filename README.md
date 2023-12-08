@@ -10,7 +10,10 @@
 - **Completed Physics courses**:
 > Classical Mechanics  
 - **Projects**:
-- **In progress**: Real Analysis I, Complex Analysis, Electromagnetism
+- **In progress**: 
+> Real Analysis I  
+> Complex Analysis
+> Electromagnetism  
 
 <!---
 MrYinsen/MrYinsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
