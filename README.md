@@ -2,19 +2,15 @@
 - 👀 I’m interested in math, physics, and exploring the computational world that can connect the two
 - 🌱 I’m currently teaching myself math, physics, and computer programming (C++)
 - **Completed Math courses**:
-> Calculus
-> Linear Algebra
-> Probability
-> Differential Equations
-> Mathematical Proofs
+(1) Calculus
+(2) Linear Algebra
+(3) Probability
+(4) Differential Equations
+(5) Mathematical Proofs
 - **Completed Physics courses**:
-> Classical Mechanics
+(1) Classical Mechanics
 - **Projects**:
-> None yet!
-- **In progress**:
-> Real Analysis I 
-> Complex Analysis
-> Electromagnetism
+- **In progress**: Real Analysis I, Complex Analysis, Electromagnetism
 - 📫 How to reach me @MrYinsen on Twitter
 
 <!---
