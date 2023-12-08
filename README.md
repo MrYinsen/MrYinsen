@@ -11,7 +11,6 @@
 (1) Classical Mechanics
 - **Projects**:
 - **In progress**: Real Analysis I, Complex Analysis, Electromagnetism
-- 📫 How to reach me @MrYinsen on Twitter
 
 <!---
 MrYinsen/MrYinsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
