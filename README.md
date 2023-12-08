@@ -12,7 +12,7 @@
 - **Projects**:
 - **In progress**: 
 > Real Analysis I  
-> Complex Analysis
+> Complex Analysis  
 > Electromagnetism  
 
 <!---
