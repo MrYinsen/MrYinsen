@@ -6,10 +6,10 @@
 > Probability  
 > Differential Equations  
 > Mathematical Proofs  
-- **🌠 Completed Physics courses 🌠**:  
+**🌠 Completed Physics courses 🌠**:  
 > Classical Mechanics  
-- **Projects**:  
-- **In progress**:  
+**Projects**:  
+**In progress**:  
 > Real Analysis I  
 > Complex Analysis  
 > Electromagnetism  
