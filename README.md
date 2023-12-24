@@ -7,13 +7,13 @@
 > Linear Algebra  
 > Probability  
 > Differential Equations  
-> Mathematical Proofs
-<br> 
+> Mathematical Proofs  
+
 **🌠 Completed Physics courses 🌠**:  
 > Classical Mechanics
-<br>
+  
 **Projects**:
-<br>
+  
 **In progress**:  
 > Real Analysis I  
 > Complex Analysis  
