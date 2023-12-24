@@ -17,9 +17,9 @@ This github will include different sets of scientific coding projects that are r
 **🌠 Completed Physics courses**:  
 > Classical Mechanics
   
-**Projects**:
+**🚧 Projects**:
   
-**In progress**:  
+**⏳ In progress**:  
 > Real Analysis I  
 > Complex Analysis  
 > Electromagnetism  
