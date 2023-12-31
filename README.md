@@ -5,7 +5,7 @@ I believe math, physics, and computer science provide a comprehensive ruleset fo
 Eight months ago, April of 2023, I began a two year journey to develop a deep maturity in math  and four months ago, August of 2023, I added the exploration of foundational physics (classical mechanics, electromagnetism, quantum physics, statistical mechanics, fluid dynamics, and solid state physics). During my early course of study, I've grown increasingly curious about the growing potential of computational physics as a tool for low cost, high speed experimentation in the digital universe, as a general predictor of physical systems, and more plainly as an application based form of learning to concretize the things I learn. As a result, I've chosen to learn C++ for the purposes of exploring the computational physics portion of this endeavor.  
   
 **👀 What will you find on this github?**:  
-This github will include sets of educational and scientific coding projects that are relevant to the topics I'm learning. As time progresses, contributions will range from early C++ educational programs to implementations of popular mathematic operations to physics simulations.
+This github will include sets of educational and scientific coding projects that are relevant to the topics I'm learning. The topics will range from C++ basics, implementation of algorithms in linear algebra and calculus, computer graphics, and physics simulations ranging from introductory to highly complex topics. 
   
 **🧮 Completed Math courses**:  
 > Calculus  
