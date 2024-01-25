@@ -15,8 +15,8 @@ This github will include sets of educational and scientific coding projects that
 > Mathematical Proofs: *Mathematical Proofs* (Jay Cummings)    
 
 **🌠 Completed Physics courses**:  
-> Classical Mechanics: MIT OCW 8.01  
-> Electromagnetism: *Electricity and Magnetism* (Purcell and Morin)  
+> Classical Mechanics I: MIT OCW 8.01  
+> Electromagnetism I: *Electricity and Magnetism* (Purcell and Morin)  
   
 **🚧 Projects**:
   
