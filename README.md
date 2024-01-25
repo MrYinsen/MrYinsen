@@ -15,7 +15,7 @@ This github will include sets of educational and scientific coding projects that
 > Mathematical Proofs: *Mathematical Proofs* (Jay Cummings)    
 
 **🌠 Completed Physics courses**:  
-> Classical Mechanics: MIT OCW Course Notes 8.01   
+> Classical Mechanics: MIT OCW 8.01   
   
 **🚧 Projects**:
   
