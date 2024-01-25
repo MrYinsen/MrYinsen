@@ -15,14 +15,14 @@ This github will include sets of educational and scientific coding projects that
 > Mathematical Proofs: *Mathematical Proofs* (Jay Cummings)    
 
 **🌠 Completed Physics courses**:  
-> Classical Mechanics: MIT OCW 8.01   
+> Classical Mechanics: MIT OCW 8.01
+> Electromagnetism: *Electricity and Magnetism* (Purcell and Morin)  
   
 **🚧 Projects**:
   
 **⏳ In progress**:  
 > Real Analysis I: *Real Analysis I* (Terence Tao)    
-> Complex Variables and Applications: *Complex Variables and Applications* (Brown and Churchill)   
-> Electromagnetism: *Electricity and Magnetism* (Purcell and Morin)  
+> Complex Variables and Applications: *Complex Variables and Applications* (Brown and Churchill)  
 
 <!---
 MrYinsen/MrYinsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
