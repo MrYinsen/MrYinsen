@@ -12,7 +12,8 @@ This github will include sets of educational and scientific coding projects that
 > Linear Algebra: *Introduction to Linear Algebra* (Gilbert Strang)  
 > Probability: *First Course in Probability* (Sheldon Ross)    
 > Differential Equations: *Elementary Differential Equations and Boundary Value Problems* (Edwards and Penney)  
-> Mathematical Proofs: *Mathematical Proofs* (Jay Cummings)    
+> Mathematical Proofs: *Mathematical Proofs* (Jay Cummings)  
+> Complex Variables and Applications: *Complex Variables and Applications* (Brown and Churchill)  
 
 **🌠 Completed Physics courses**:  
 > Classical Mechanics I: MIT OCW 8.01  
@@ -22,7 +23,8 @@ This github will include sets of educational and scientific coding projects that
   
 **⏳ In progress**:  
 > Real Analysis I: *Real Analysis I* (Terence Tao)    
-> Complex Variables and Applications: *Complex Variables and Applications* (Brown and Churchill)  
+> Abstract Algebra: *Abstract Algebra* (I. N. Hernstein)  
+> Vibrations and Waves: *Vibrations and Waves* (A.P. French)  
 
 <!---
 MrYinsen/MrYinsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
